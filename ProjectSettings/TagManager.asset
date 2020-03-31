@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - card
+  - operator
+  - coin
+  - fruit
+  - juice
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Cards
+  - Operator
+  - Pedido
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3286749743
+    locked: 0
+  - name: Cards
+    uniqueID: 1234925557
+    locked: 0
+  - name: Balcao
+    uniqueID: 1167398325
+    locked: 0
+  - name: Juice
+    uniqueID: 3670448129
+    locked: 0
+  - name: Operation
+    uniqueID: 734955773
+    locked: 0
+  - name: CoinsFruits
+    uniqueID: 4171669995
+    locked: 0
+  - name: GUI
+    uniqueID: 2032844307
+    locked: 0
+  - name: Pause
+    uniqueID: 3106794445
+    locked: 0
